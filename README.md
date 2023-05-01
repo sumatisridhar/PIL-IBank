@@ -13,3 +13,5 @@ GIS Files: Includes GIS files used to create the maps in the StoryMap. Files inc
 
 StoryMapDetails: Includes other materials used for the StoryMap, such as relevant images, references, and methdology documentation.
 
+Projects: This repo has one project board: PIL Team Project Board. This board acted as our task manager/Kanban board for the project. The project is now closed, but the task history should still be viewable. 
+
