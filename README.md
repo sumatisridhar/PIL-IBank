@@ -11,5 +11,5 @@ Data: includes data sources utilized for map-making and other analyses for the s
 
 GIS Files: Includes GIS files used to create the maps in the StoryMap. Files include ArcGIS files, project packages, and geodatabases 
 
-StoryMapDetails: Includes other materials used for the StoryMap, such as relevant images and methodology documents
+StoryMapDetails: Includes other materials used for the StoryMap, such as relevant images, references, and methdology documentation.
 
